@@ -4,7 +4,7 @@ CodeNameList
 ###List of My Project Code Name
 
 ###June 28, 2013 - Creamy Affogato
-      gellato_api
+      gelato_api
       expresso_* -> 
         [web, desktop, android, cocoa, ios ...]
 
